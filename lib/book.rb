@@ -18,11 +18,3 @@ class Book
   end
 
 end
-
-class Dog
-  def initialize(bark)
-    puts "woof"
-  end
-end
-
-fido = Dog.new
