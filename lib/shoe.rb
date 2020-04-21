@@ -12,6 +12,6 @@ class Shoe
   end
 
   def uni_brand=(uni_brand)
-    BRAND << 
-  
+    BRAND <<
+
 end
